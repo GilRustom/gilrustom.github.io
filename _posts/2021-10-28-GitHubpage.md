@@ -5,7 +5,7 @@ typora-root-url: ../
 
 CREACIÓN DE UNA PÁGINA EN GITHUB
 
-![](imagenes/c1.png)
+![](/imagenes/c1.png)
 
 
 
