@@ -1,5 +1,5 @@
 ---
-typora-copy-images-to: imagene
+typora-copy-images-to: ../imagenes
 ---
 
 CREACIÓN DE UNA PÁGINA EN GITHUB
